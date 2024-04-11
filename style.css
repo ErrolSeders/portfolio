@@ -173,14 +173,7 @@ h1 {
 /* Links */
 
 .home-link {
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-right:auto;
-    margin-left: 1rem;
-    font-size:2vh;
-    justify-content: center;
-    display: flex;
-    margin-right:auto;
+    margin: 2rem;
 }
 
 .github-link {
